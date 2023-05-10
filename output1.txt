@@ -1,0 +1,179 @@
+Time: 0
+Waiting clients: (2, 4, 3)
+  (4, 6, 4)
+  (1, 6, 3)
+  (3, 14, 4)
+  
+Queue 1: closed
+
+Queue 2: closed
+
+
+Time: 1
+Waiting clients: (2, 4, 3)
+  (4, 6, 4)
+  (1, 6, 3)
+  (3, 14, 4)
+  
+Queue 1: closed
+
+Queue 2: closed
+
+
+Time: 2
+Waiting clients: (2, 4, 3)
+  (4, 6, 4)
+  (1, 6, 3)
+  (3, 14, 4)
+  
+Queue 1: closed
+
+Queue 2: closed
+
+
+Time: 3
+Waiting clients: (2, 4, 3)
+  (4, 6, 4)
+  (1, 6, 3)
+  (3, 14, 4)
+  
+Queue 1: closed
+
+Queue 2: closed
+
+
+Time: 4
+Waiting clients: (4, 6, 4)
+  (1, 6, 3)
+  (3, 14, 4)
+  
+Queue 1: [(2, 4, 3)
+]
+
+Queue 2: closed
+
+
+Time: 5
+Waiting clients: (4, 6, 4)
+  (1, 6, 3)
+  (3, 14, 4)
+  
+Queue 1: [(2, 4, 2)
+]
+
+Queue 2: closed
+
+
+Time: 6
+Waiting clients: (3, 14, 4)
+  
+Queue 1: [(2, 4, 1)
+, (1, 6, 3)
+]
+
+Queue 2: [(4, 6, 4)
+]
+
+
+Time: 7
+Waiting clients: (3, 14, 4)
+  
+Queue 1: [(2, 4, 0)
+, (1, 6, 3)
+]
+
+Queue 2: [(4, 6, 3)
+]
+
+
+Time: 8
+Waiting clients: (3, 14, 4)
+  
+Queue 1: [(1, 6, 2)
+]
+
+Queue 2: [(4, 6, 2)
+]
+
+
+Time: 9
+Waiting clients: (3, 14, 4)
+  
+Queue 1: [(1, 6, 1)
+]
+
+Queue 2: [(4, 6, 1)
+]
+
+
+Time: 10
+Waiting clients: (3, 14, 4)
+  
+Queue 1: [(1, 6, 0)
+]
+
+Queue 2: closed
+
+
+Time: 11
+Waiting clients: (3, 14, 4)
+  
+Queue 1: closed
+
+Queue 2: closed
+
+
+Time: 12
+Waiting clients: (3, 14, 4)
+  
+Queue 1: closed
+
+Queue 2: closed
+
+
+Time: 13
+Waiting clients: (3, 14, 4)
+  
+Queue 1: closed
+
+Queue 2: closed
+
+
+Time: 14
+Waiting clients: 
+Queue 1: [(3, 14, 4)
+]
+
+Queue 2: closed
+
+
+Time: 15
+Queue 1: [(3, 14, 3)
+]
+
+Queue 2: closed
+
+
+Time: 16
+Queue 1: [(3, 14, 2)
+]
+
+Queue 2: closed
+
+
+Time: 17
+Queue 1: [(3, 14, 1)
+]
+
+Queue 2: closed
+
+
+Time: 18
+Queue 1: [(3, 14, 0)
+]
+
+Queue 2: closed
+
+
+Average waiting time: 4.5
+Peak hour: 6
